@@ -20,5 +20,5 @@ FPGA裝置、自走車模組、遙控器、行動電源、自製砲台、麵包�
 ### 砲台射擊
 本次專案是以類似餵球機的原理進行製作。
 <div align="center">
-<img src="./img/demo2.gif" width = "100%" />
+<img src="./img/demo2.gif" width = "50%" />
 </div>
